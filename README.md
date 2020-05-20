@@ -1,6 +1,7 @@
 # mydestini
 
-A new Flutter application.
+Destini - A Choose Your Own Adventure Game using OOP in Dart
+Online course by: https://www.appbrewery.co/p/flutter-development-bootcamp-with-dart
 
 ## Getting Started
 
